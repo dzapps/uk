@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'daemonesqueregular';
+    src: url('daemonesuk.eot');
+    src: url('daemonesuk.eot?#iefix') format('embedded-opentype'),
+         url('daemonesuk.woff2') format('woff2'),
+         url('daemonesuk.woff') format('woff'),
+         url('daemonesuk.ttf') format('truetype'),
+         url('daemonesuk.svg#daemonesqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
