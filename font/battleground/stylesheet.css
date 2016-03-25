@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'battlegroundregular';
+    src: url('battlegrounduk.eot');
+    src: url('battlegrounduk.eot?#iefix') format('embedded-opentype'),
+         url('battlegrounduk.woff2') format('woff2'),
+         url('battlegrounduk.woff') format('woff'),
+         url('battlegrounduk.ttf') format('truetype'),
+         url('battlegrounduk.svg#battlegroundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: '28_days_laterregular';
+    src: url('28_days_lateruk.eot');
+    src: url('28_days_lateruk.eot?#iefix') format('embedded-opentype'),
+         url('28_days_lateruk.woff2') format('woff2'),
+         url('28_days_lateruk.woff') format('woff'),
+         url('28_days_lateruk.ttf') format('truetype'),
+         url('28_days_lateruk.svg#28_days_laterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
