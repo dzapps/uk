@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'vtks_storm_2regular';
+    src: url('vtks_storm_2uk.eot');
+    src: url('vtks_storm_2uk.eot?#iefix') format('embedded-opentype'),
+         url('vtks_storm_2uk.woff2') format('woff2'),
+         url('vtks_storm_2uk.woff') format('woff'),
+         url('vtks_storm_2uk.ttf') format('truetype'),
+         url('vtks_storm_2uk.svg#vtks_storm_2regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,32 @@
+
+
+
+
+@font-face {
+    font-family: 'tell_me_a_secretregular';
+    src: url('tell_me_a_secretuk.eot');
+    src: url('tell_me_a_secretuk.eot?#iefix') format('embedded-opentype'),
+         url('tell_me_a_secretuk.woff2') format('woff2'),
+         url('tell_me_a_secretuk.woff') format('woff'),
+         url('tell_me_a_secretuk.ttf') format('truetype'),
+         url('tell_me_a_secretuk.svg#tell_me_a_secretregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tell_me_a_secret_lightregular';
+    src: url('tell-me-a-secret_lightuk.eot');
+    src: url('tell-me-a-secret_lightuk.eot?#iefix') format('embedded-opentype'),
+         url('tell-me-a-secret_lightuk.woff2') format('woff2'),
+         url('tell-me-a-secret_lightuk.woff') format('woff'),
+         url('tell-me-a-secret_lightuk.ttf') format('truetype'),
+         url('tell-me-a-secret_lightuk.svg#tell_me_a_secret_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

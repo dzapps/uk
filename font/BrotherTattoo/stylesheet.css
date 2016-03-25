@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'brother_tattooregular';
+    src: url('brothertattoo_demouk.eot');
+    src: url('brothertattoo_demouk.eot?#iefix') format('embedded-opentype'),
+         url('brothertattoo_demouk.woff2') format('woff2'),
+         url('brothertattoo_demouk.woff') format('woff'),
+         url('brothertattoo_demouk.ttf') format('truetype'),
+         url('brothertattoo_demouk.svg#brother_tattooregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
