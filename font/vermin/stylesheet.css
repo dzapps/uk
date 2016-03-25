@@ -1,0 +1,12 @@
+font-face {
+    font-family: 'vermin';
+    src: url('vv2nightclubuk.eot');
+    src: url('vv2nightclubuk.eot?#iefix') format('embedded-opentype'),
+         url('vv2nightclubuk.woff2') format('woff2'),
+         url('vv2nightclubuk.woff') format('woff'),
+         url('vv2nightclubuk.ttf') format('truetype'),
+         url('vv2nightclubuk.svg#vermin_vibes_2_nightclubRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

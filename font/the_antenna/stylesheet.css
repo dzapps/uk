@@ -1,0 +1,16 @@
+
+
+
+
+@font-face {
+    font-family: 'the_antenna';
+    src: url('the-antennauk.eot');
+    src: url('the-antennauk.eot?#iefix') format('embedded-opentype'),
+         url('the-antennauk.woff2') format('woff2'),
+         url('the-antennauk.woff') format('woff'),
+         url('the-antennauk.ttf') format('truetype'),
+         url('the-antennauk.svg#the_antennaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
